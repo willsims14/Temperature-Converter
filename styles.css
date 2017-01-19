@@ -1,0 +1,8 @@
+#tempForm{
+	border: 2px solid red;
+}
+
+#convertedTemp{
+	width: 20%;
+	margin-top: 5%;
+}
